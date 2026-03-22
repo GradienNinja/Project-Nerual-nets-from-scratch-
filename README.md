@@ -1,2 +1,4 @@
 # Coding-A-Perceptron-From-Scratch-
-just a neuron 
+it is just a single neruon nothing else 
+i tried code to it with my thoery based knowledge 
+
